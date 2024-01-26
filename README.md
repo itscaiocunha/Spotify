@@ -1,9 +1,7 @@
-# Nome do projeto
+# Spotify Alura - Imersão Front-End 2024
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/itscaiocunha/spotify_Alura?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/itscaiocunha/spotify_Alura?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/itscaiocunha/spotify_Alura?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/itscaiocunha/spotify_Alura?style=for-the-badge)
 
 <img src="/src/assets/TelaSpotify.png" alt="Exemplo imagem">
 
