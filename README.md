@@ -5,7 +5,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/itscaiocunha/spotify_Alura?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/itscaiocunha/spotify_Alura?style=for-the-badge)
 
-<img src="imagem.png" alt="Exemplo imagem">
+<img src="/src/assets/TelaSpotify.png" alt="Exemplo imagem">
 
 > Projeto desenvolvido juntamente com a imersão de Front-End da Alura! Com intuito de trabalhar conceitos de HTML, CSS e JavaScript.
 > Foi desenvolvido uma recriação da página inicial do Spotify
