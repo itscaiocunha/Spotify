@@ -15,7 +15,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Desenvolver telas de playlist
 - [ ] Conectar API de Música
 
-## ☕ Usando Spotify Alura
+## ☕ Usando Spotify
 
 Para usar, siga estas etapas:
 
