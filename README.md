@@ -1,4 +1,4 @@
-# Spotify Alura - Imersão Front-End 2024
+# Spotify - Imersão Front-End 2024
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/itscaiocunha/spotify_Alura?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/itscaiocunha/spotify_Alura?style=for-the-badge)
