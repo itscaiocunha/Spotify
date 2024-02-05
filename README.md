@@ -1,9 +1,9 @@
 # Spotify - Imersão Front-End 2024
 
-![GitHub repo size](https://img.shields.io/github/repo-size/itscaiocunha/spotify_Alura?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/itscaiocunha/spotify_Alura?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/itscaiocunha/Spotify?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/itscaiocunha/Spotify?style=for-the-badge)
 
-<img src="/src/assets/TelaSpotify.png" alt="Exemplo imagem">
+<img src="/src/assets/TelaSpotify.png" alt="Tela Desenvolvida - Spotify">
 
 > Projeto desenvolvido juntamente com a imersão de Front-End da Alura! Com intuito de trabalhar conceitos de HTML, CSS e JavaScript.
 > Foi desenvolvido uma recriação da página inicial do Spotify
@@ -23,9 +23,7 @@ Para usar, siga estas etapas:
 Clieque no documento index.html
 ```
 
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
-
-## 📫 Me acomponhe:
+## 📫 Me acompanhe:
 
 1. Instagram: @itscaiocunha
-2. LinkedIn: https://www.linkedin.com/in/caio-grilo-da-cunha-05ba14240/
+2. LinkedIn: https://www.linkedin.com/in/itscaiocunha
